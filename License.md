@@ -1,6 +1,6 @@
 Copyright 2013 Seoul Metropolitan Government (gonabis@seoul.go.kr), 
 with Reserved Font Name 'Seoul Namsan' and 'Seoul Hangang',
-Copyright (c) 2021, The Jemima Project Authors.
+Copyright (c) 2021, The Jemima Project Authors (https://github.com/cssobral2013/Jemima)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
